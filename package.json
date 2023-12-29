@@ -1,7 +1,10 @@
 {
   "name": "ttt-boilerplate",
   "version": "1.0.0",
-  "description": "Test Test Tes template for init a new project",
+  "description": "Test Test Test template for init a new project",
+  "bin":{
+    "ttt-boilerplate": "./bin/ttt-boilerplate.js"
+  },
   "scripts": {
     "build": "gulp watch"
   },
